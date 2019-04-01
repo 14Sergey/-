@@ -1,9 +1,0 @@
-D:\Сергей университет\ТП\2 лаб\Matrix\Testsm\bin\Debug\Testsm.dll
-D:\Сергей университет\ТП\2 лаб\Matrix\Testsm\bin\Debug\Testsm.pdb
-D:\Сергей университет\ТП\2 лаб\Matrix\Testsm\bin\Debug\Matrix.exe
-D:\Сергей университет\ТП\2 лаб\Matrix\Testsm\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Сергей университет\ТП\2 лаб\Matrix\Testsm\bin\Debug\Matrix.pdb
-D:\Сергей университет\ТП\2 лаб\Matrix\Testsm\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-D:\Сергей университет\ТП\2 лаб\Matrix\Testsm\obj\Debug\Testsm.csprojResolveAssemblyReference.cache
-D:\Сергей университет\ТП\2 лаб\Matrix\Testsm\obj\Debug\Testsm.dll
-D:\Сергей университет\ТП\2 лаб\Matrix\Testsm\obj\Debug\Testsm.pdb

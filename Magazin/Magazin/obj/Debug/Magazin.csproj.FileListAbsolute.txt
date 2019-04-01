@@ -1,6 +1,0 @@
-D:\Сергей университет\Работы\Новая папка\Magazin\Magazin\bin\Debug\Magazin.exe.config
-D:\Сергей университет\Работы\Новая папка\Magazin\Magazin\bin\Debug\Magazin.exe
-D:\Сергей университет\Работы\Новая папка\Magazin\Magazin\bin\Debug\Magazin.pdb
-D:\Сергей университет\Работы\Новая папка\Magazin\Magazin\obj\Debug\Magazin.csprojResolveAssemblyReference.cache
-D:\Сергей университет\Работы\Новая папка\Magazin\Magazin\obj\Debug\Magazin.exe
-D:\Сергей университет\Работы\Новая папка\Magazin\Magazin\obj\Debug\Magazin.pdb

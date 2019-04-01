@@ -1,9 +1,0 @@
-D:\Сергей университет\Работы\Новая папка\Magazin\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
-D:\Сергей университет\Работы\Новая папка\Magazin\Tests\bin\Debug\Tests.dll
-D:\Сергей университет\Работы\Новая папка\Magazin\Tests\bin\Debug\Tests.pdb
-D:\Сергей университет\Работы\Новая папка\Magazin\Tests\bin\Debug\Magazin.exe
-D:\Сергей университет\Работы\Новая папка\Magazin\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-D:\Сергей университет\Работы\Новая папка\Magazin\Tests\bin\Debug\Magazin.pdb
-D:\Сергей университет\Работы\Новая папка\Magazin\Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-D:\Сергей университет\Работы\Новая папка\Magazin\Tests\obj\Debug\Tests.dll
-D:\Сергей университет\Работы\Новая папка\Magazin\Tests\obj\Debug\Tests.pdb
